@@ -1,0 +1,12 @@
+*.o
+*.out
+*.csv
+
+ycsb
+example
+cocuckoo*
+libcuckoo*
+timer.log
+timer.txt
+log
+results/
